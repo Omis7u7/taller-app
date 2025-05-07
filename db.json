@@ -7,6 +7,14 @@
       "piezas": "asd",
       "precio": "111",
       "estado": "llegada"
+    },
+    {
+      "id": "6f62",
+      "placa": "qwe",
+      "descripcion": "qwe",
+      "piezas": "qwe",
+      "precio": "111",
+      "estado": "diagnostico"
     }
   ]
 }
